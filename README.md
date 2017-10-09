@@ -7,7 +7,7 @@ AthenaX is a streaming analytic platform that enables users to run production-qu
 See also:
 
   * AthenaX [documentation][doc] for getting started, operational details, and other information.
-  * Blog post [Introducing AthenaX, Uber Engineering’s Open Source Streaming Analytics Platform](https://eng.uber.com/athenax/).
+  * Uber Eng Blog article: [Introducing AthenaX, Uber Engineering’s Open Source Streaming Analytics Platform](https://eng.uber.com/athenax/).
 
 
 ## License
