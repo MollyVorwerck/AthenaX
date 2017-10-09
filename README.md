@@ -2,7 +2,7 @@
 
 # AthenaX: SQL-based streaming analytic platform at scale
 
-AthenaX is a streaming analytic platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL). Originated from [Uber Technologies][ubeross], AthenaX scales across hundreds of machines and processes hundreds of billions of real-time events every single day.
+AthenaX is a streaming analytic platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL). Originating from [Uber Technologies][ubeross], AthenaX scales across hundreds of machines and processes hundreds of billions of real-time events every single day.
 
 See also:
 
